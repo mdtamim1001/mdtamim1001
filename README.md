@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD%20TAMIM%20HOSSAIN&fontSize=40&fontAlign=50&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MD.%20TAMIM%20&fontSize=40&fontAlign=50&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
 <h2 align="center">Hey there! I'm MD. TAMIM 👋</h2>
