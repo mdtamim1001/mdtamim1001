@@ -51,6 +51,9 @@
 </p>
 
 ---
+<p>
+  _Thank You
+</p>
 
 <!-- Footer Wave -->
 <p align="center">
