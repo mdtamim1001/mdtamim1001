@@ -37,6 +37,10 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdtamim1001&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtamim1001&layout=compact&theme=radical&hide_border=true&v=1" height="170" />
+</p>
 
 
 ---
